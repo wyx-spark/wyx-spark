@@ -11,7 +11,6 @@
 
 #### 🔭 当前专注 | Current Focus
 - 主力维护 **[EchoDesk](https://github.com/wyx-spark/EchoDesk)**：一个在无网/内网环境下提供隐私保护的离线 AI 助手。
-- 打磨交付流程：探索并落地**可复现构建（Reproducible Builds）**与全自动化门禁流水线。
 
 #### 💡 开发习惯 | Working Style
 - **代码即产品**：不仅要能跑，还要具备极高的可维护性与阅读体验。
